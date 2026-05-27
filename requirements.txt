@@ -1,0 +1,5 @@
+tensorflow>=2.16
+scikit-learn>=1.0
+pefile>=2023.0
+numpy>=1.22,<2
+pandas>=1.3
